@@ -16,10 +16,10 @@ In ComfyUI, locate the "Get FileName From URL" node.
 Input the desired URL into the node's url field.
 Run the node, and it will output both the extracted filename and the original URL.
 # Inputs
-url (STRING): The URL from which to extract the filename.
+* url (STRING): The URL from which to extract the filename.
 # Outputs
-filename (STRING): The extracted filename.
-url (STRING): The input URL.
+* filename (STRING): The extracted filename.
+* url (STRING): The input URL.
 # Example
 ## Input: 
 * https://example.com/path/to/file.jpg
