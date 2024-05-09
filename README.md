@@ -9,7 +9,7 @@ Handles 303 redirects
 In your terminal, navigate to the custom_nodes directory of your ComfyUI installation.
 Clone this repository using the git clone command:
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/githubYiheng/ComfyUI_GetFileNameFromURL.git
 ```
 Restart ComfyUI.
 In ComfyUI, locate the "Get FileName From URL" node.
