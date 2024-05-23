@@ -1,0 +1,14 @@
+[project]
+name = "comfyui_getfilenamefromurl"
+description = "GetFileNameFromURL is a ComfyUI custom node that extracts the filename from a URL. It can handle various URLs and is capable of handling redirects."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/githubYiheng/ComfyUI_GetFileNameFromURL"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI_GetFileNameFromURL"
+Icon = ""
